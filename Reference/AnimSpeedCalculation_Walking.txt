@@ -1,0 +1,10 @@
+Left_Plant_Y: 23.818211
+Left_Plant_Time: 0.33
+
+Left_Raise_Y: -23.562038
+Left_Raise_Time: 0.68
+
+Foot Travel Dist: 47.280249
+Foot Travel Time: 0.35
+
+47.280249 / 0.35 = 135.086426
